@@ -81,7 +81,7 @@ def main(argv):
         print("provide command line arguments ! please.")
 
 
-#driber code.
+#driver code.
 if __name__ == '__main__':
 
     while True:
